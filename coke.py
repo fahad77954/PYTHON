@@ -1,7 +1,6 @@
 def main ():
     amount_due = 50
     coke (amount_due)
-
 def coke (amount_due):
     while amount_due > 0 :
         print(f"Amount Due : { amount_due} " )
