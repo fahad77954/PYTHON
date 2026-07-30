@@ -1,0 +1,17 @@
+Username,Action,Amount,Balance
+fahad,Account Created,$0.00,$50.00
+ali,Account Created,$0.00,$50.00
+ali,Transfer to fahad,$25.00,$25.00
+fahad,Transfer from ali,$25.00,$75.00
+ali,Deposit,$75.00,$100.00
+ali,Deposit,$50.00,$150.00
+ali,Withdraw,$50.00,$100.00
+mohsin,Account Created,$0.00,$50.00
+mohsin,Deposit,$20.00,$70.00
+mohsin,Transfer to fahad,$20.00,$50.00
+fahad,Transfer from mohsin,$20.00,$95.00
+afrah,Account Created,$0.00,$50.00
+afrah,Deposit,$20.00,$70.00
+afrah,Withdraw,$30.00,$40.00
+afrah,Transfer to fahad,$10.00,$30.00
+fahad,Transfer from afrah,$10.00,$105.00
